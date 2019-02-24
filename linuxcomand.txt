@@ -1,0 +1,37 @@
+1  logout
+    2  cd .ssh
+    3  ls -lrt
+    4  ssh-keygen -t rsa
+    5  ls -lrt
+    6  cat id_rsa.pub
+    7  ssh 34.227.173.52
+    8  who am i
+    9  sudo su -
+   10  logout
+   11  pwd
+   12  yum install tree -y
+   13  which tree
+   14  rpm -qa | grep tree
+   15  ls
+   16  ls -ltr
+   17  ssh-keygen -t rsa
+   18  cat /root/.ssh/id_rsa.pub.
+   19  ssh-keygen -t rsa
+   20  cat /root/.ssh/id_rsa.pub.
+   21* /root/.ssh/id_rsa.pub
+   22  cat /root/.ssh/id_rsa.pub
+   23  ssh 34.227.173.52
+   24  cat /root/.ssh/id_rsa.pub
+   25  ssh 34.227.173.52
+   26  ls -lrt
+   27  cd .ssh
+   28  ls -lrt
+   29  cp -p authorized_keys authorized_keys.original
+   30  ssh 34.227.173.52
+   31  git init
+   32  mkdir -p /opt/devopsethans && cd  /opt/devopsethans
+   33  git init
+   34  yum install git
+   35  git init
+   36  history
+
