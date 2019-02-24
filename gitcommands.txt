@@ -1,0 +1,13 @@
+31  git init
+   33  git init - git used to init
+   34  yum install git - Install git 
+   35  git init -Git initiazliz the host as local repository
+   38  git status - Git status shwoing the status
+   39  git add linuxomand.txt - add file to git 
+   40  git add linuxcomand.txt - add file to git
+   41  git status 
+   42  git commit -m "fisrt" -commit code in git 
+   43  git remote add origin https://github.com/gayatris220688/Devopsethans.git enter the origin from github
+   44  git push -u origin master 
+   46  history | grep git
+
